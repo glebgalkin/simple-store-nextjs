@@ -1,0 +1,15 @@
+[{
+    "title": "Cookie",
+    "image": "/images/cookie.jpeg",
+    "id": "sticker_logo",
+    "description": "Santa's old cookies",
+    "price": "2.00"
+},
+{
+    "title": "Ice cream",
+    "image": "/images/ice-cream.jpeg",
+    "id": "sticker_logo_pack",
+    "description": "Get a pack of Ice cream!",
+    "price": "4.00"
+  }
+]
